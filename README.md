@@ -28,4 +28,3 @@
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sayedabsobur&show_icons=true&count_private=true&theme=dark" alt="Sayed Abdus Sobur" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayedabsobur&show_icons=true&locale=en" alt="sayedabsobur" /></p>
