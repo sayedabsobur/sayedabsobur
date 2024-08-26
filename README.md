@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sobur</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate FullStack Web Developer from Bangladesh</h3>
 
 <h3 align="left">My Github States:</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sayedabsobur&show_icons=true&count_private=true&theme=dark" alt="Sayed Abdus Sobur" />
